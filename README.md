@@ -1,6 +1,6 @@
 # Computer Vision Projects
 
-Welcome to the Computer Vision Projects repository! This repository houses a collection of projects focusing on computer vision applications across various domains. From image preprocessing to object detection, each project follows a systematic process to extract meaningful insights from visual data. Below, you'll find an overview of the computer vision process and information about this repository.
+This repository houses a collection of projects focusing on computer vision applications across various domains. From image preprocessing to object detection, each project follows a systematic process to extract meaningful insights from visual data. Below, you'll find an overview of the computer vision process and information about this repository.
 
 ## Computer Vision Process:
 
